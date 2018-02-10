@@ -2,6 +2,7 @@
   <div class="loading">
     <img width="24" height="24" src="./loading.gif">
     <p class="desc">{{title}}</p>
+    <p>我修改了部分东西了</p>
   </div>
 </template>
 <script type="text/ecmascript-6">
